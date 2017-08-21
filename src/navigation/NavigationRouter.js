@@ -12,7 +12,7 @@ class NavigationRouter extends Component {
           <Scene initial key="home"
                  navigationBarStyle={{backgroundColor: Colors.background, borderBottomColor: 'white'}}
                  component={Home}
-                 title="Waasi"
+                 title="waasi"
                  titleStyle={{color: Colors.textColor, fontWeight: 'bold'}}
           />
         </Scene>
